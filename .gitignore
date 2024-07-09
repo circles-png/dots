@@ -1,1 +1,4 @@
 /target
+.DS_Store
+dots/dots-backups
+fp-info-cache
